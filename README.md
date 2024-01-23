@@ -1,1 +1,2 @@
-# CODSOFT-TASK1
+CODSOFT INTERNSHIP
+Task 1: Landing Page
